@@ -58,6 +58,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>library-springboot</finalName>
     </build>
 
 </project>
